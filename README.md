@@ -7,7 +7,7 @@ Software Engineer but also a Data Enthusiast
 Currently an undergraduate student of informatics. I am also a fast learner student. I actually have high desire of being professional Data Scientist though basic Software Engineering is also my learning path.
 
 * 🌍  I'm based in Bandung, West Java
-* ✉️  You can contact me at [adhisti.anita@gmail.com](mailto:adhisti.anita@gmail.com)
+* ✉️  You can contact me at [adhisti.anita@gmail.com](mailto:adhistianitash@gmail.com)
 * 🧠  I'm learning Machine Learning Development (Kaggle)
 * ⚡  Some of my hobbies are [here](https://msha.ke/aadhistii)
 
